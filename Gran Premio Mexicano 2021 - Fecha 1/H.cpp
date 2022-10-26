@@ -17,3 +17,14 @@ int main()
     }
     return 0;
 }
+
+/*
+int main()
+{
+    int n, mid, lado;
+    cin >> n;
+    mid = n/2;
+    lado = mid/2;
+    cout << lado*(mid-lado);
+}
+*/
