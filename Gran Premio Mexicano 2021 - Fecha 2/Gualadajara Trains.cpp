@@ -12,7 +12,7 @@ int main(){
 	for(int i = 1; i < t2*2-1; i+=2) cin >> rail[i];
 	for(int i = 0; i < t2*2-1; i+=2) cin >> rail[i];
 
-	t2 = t2*2-1;
+	t2 = t2*2-2;
 	while(t1 < t2)
 		if(rail[t1] > rail[t2])
 			rail[t1] -= rail[t2--];
