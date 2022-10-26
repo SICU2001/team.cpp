@@ -25,7 +25,6 @@ Data Structures and Algorithms y Respuestas a exámenes de team.cpp
 - I
 - J
 - K
-- L
 
 ### Fecha 3
 - B
