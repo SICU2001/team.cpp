@@ -11,7 +11,6 @@ Data Structures and Algorithms y Respuestas a exámenes de team.cpp
 - A
 - B
 - C
-- D
 - E
 - F
 - G
