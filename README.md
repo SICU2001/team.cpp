@@ -3,7 +3,7 @@
 Data Structures and Algorithms y Respuestas a exámenes de team.cpp
 
 ## TODO:
-- Gran Premio Mexicano 2021 - Fecha 10
+- Gran Premio Mexicano 2021 - Fecha 100
 - Gran Premio Mexicano 2021 - Fecha 2
 - Gran Premio Mexicano 2021 - Fecha 3
 
